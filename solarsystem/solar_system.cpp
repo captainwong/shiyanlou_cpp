@@ -1,7 +1,7 @@
 #include "solar_system.hpp"
 #include <iostream>
 
-#define TIME_PAST 1
+#define TIME_PAST 5
 #define SELF_ROTATE 3
 
 #define REST 700
