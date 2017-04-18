@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "thread_pool", "thread_pool\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "camshift", "camshift\camshift.vcxproj", "{F99B9C27-26B4-4F84-AFBF-69362D27A98B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bank", "bank\bank.vcxproj", "{6C2ADA88-136C-4DC9-BE3E-CAF0CA4B6F88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{F99B9C27-26B4-4F84-AFBF-69362D27A98B}.Release|x64.Build.0 = Release|x64
 		{F99B9C27-26B4-4F84-AFBF-69362D27A98B}.Release|x86.ActiveCfg = Release|Win32
 		{F99B9C27-26B4-4F84-AFBF-69362D27A98B}.Release|x86.Build.0 = Release|Win32
+		{6C2ADA88-136C-4DC9-BE3E-CAF0CA4B6F88}.Debug|x64.ActiveCfg = Debug|x64
+		{6C2ADA88-136C-4DC9-BE3E-CAF0CA4B6F88}.Debug|x64.Build.0 = Debug|x64
+		{6C2ADA88-136C-4DC9-BE3E-CAF0CA4B6F88}.Debug|x86.ActiveCfg = Debug|Win32
+		{6C2ADA88-136C-4DC9-BE3E-CAF0CA4B6F88}.Debug|x86.Build.0 = Debug|Win32
+		{6C2ADA88-136C-4DC9-BE3E-CAF0CA4B6F88}.Release|x64.ActiveCfg = Release|x64
+		{6C2ADA88-136C-4DC9-BE3E-CAF0CA4B6F88}.Release|x64.Build.0 = Release|x64
+		{6C2ADA88-136C-4DC9-BE3E-CAF0CA4B6F88}.Release|x86.ActiveCfg = Release|Win32
+		{6C2ADA88-136C-4DC9-BE3E-CAF0CA4B6F88}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
