@@ -11,6 +11,12 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "camshift", "camshift\camshi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bank", "bank\bank.vcxproj", "{6C2ADA88-136C-4DC9-BE3E-CAF0CA4B6F88}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "one_hour_ar", "one_hour_ar\one_hour_ar.vcxproj", "{45073891-6DBE-4221-83C4-358E163C6BAA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ar", "ar", "{B1AC354F-BFCE-4886-A362-2575B345DCFA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sinbad", "sinbad\sinbad.vcxproj", "{99F31006-02A6-4670-A24F-055644791A84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,8 +57,28 @@ Global
 		{6C2ADA88-136C-4DC9-BE3E-CAF0CA4B6F88}.Release|x64.Build.0 = Release|x64
 		{6C2ADA88-136C-4DC9-BE3E-CAF0CA4B6F88}.Release|x86.ActiveCfg = Release|Win32
 		{6C2ADA88-136C-4DC9-BE3E-CAF0CA4B6F88}.Release|x86.Build.0 = Release|Win32
+		{45073891-6DBE-4221-83C4-358E163C6BAA}.Debug|x64.ActiveCfg = Debug|x64
+		{45073891-6DBE-4221-83C4-358E163C6BAA}.Debug|x64.Build.0 = Debug|x64
+		{45073891-6DBE-4221-83C4-358E163C6BAA}.Debug|x86.ActiveCfg = Debug|Win32
+		{45073891-6DBE-4221-83C4-358E163C6BAA}.Debug|x86.Build.0 = Debug|Win32
+		{45073891-6DBE-4221-83C4-358E163C6BAA}.Release|x64.ActiveCfg = Release|x64
+		{45073891-6DBE-4221-83C4-358E163C6BAA}.Release|x64.Build.0 = Release|x64
+		{45073891-6DBE-4221-83C4-358E163C6BAA}.Release|x86.ActiveCfg = Release|Win32
+		{45073891-6DBE-4221-83C4-358E163C6BAA}.Release|x86.Build.0 = Release|Win32
+		{99F31006-02A6-4670-A24F-055644791A84}.Debug|x64.ActiveCfg = Debug|x64
+		{99F31006-02A6-4670-A24F-055644791A84}.Debug|x64.Build.0 = Debug|x64
+		{99F31006-02A6-4670-A24F-055644791A84}.Debug|x86.ActiveCfg = Debug|Win32
+		{99F31006-02A6-4670-A24F-055644791A84}.Debug|x86.Build.0 = Debug|Win32
+		{99F31006-02A6-4670-A24F-055644791A84}.Release|x64.ActiveCfg = Release|x64
+		{99F31006-02A6-4670-A24F-055644791A84}.Release|x64.Build.0 = Release|x64
+		{99F31006-02A6-4670-A24F-055644791A84}.Release|x86.ActiveCfg = Release|Win32
+		{99F31006-02A6-4670-A24F-055644791A84}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{45073891-6DBE-4221-83C4-358E163C6BAA} = {B1AC354F-BFCE-4886-A362-2575B345DCFA}
+		{99F31006-02A6-4670-A24F-055644791A84} = {B1AC354F-BFCE-4886-A362-2575B345DCFA}
 	EndGlobalSection
 EndGlobal
