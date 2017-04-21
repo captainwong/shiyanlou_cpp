@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ffmpeg_1", "ffmpeg_1\ffmpeg
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ffmpeg_2", "ffmpeg_2\ffmpeg_2.vcxproj", "{F4522345-328B-4635-AD45-1671716AEC91}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ffmpeg_3", "ffmpeg_3\ffmpeg_3.vcxproj", "{5536E48E-8FCA-43DA-AF7A-FE4570830395}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -103,6 +105,14 @@ Global
 		{F4522345-328B-4635-AD45-1671716AEC91}.Release|x64.Build.0 = Release|x64
 		{F4522345-328B-4635-AD45-1671716AEC91}.Release|x86.ActiveCfg = Release|Win32
 		{F4522345-328B-4635-AD45-1671716AEC91}.Release|x86.Build.0 = Release|Win32
+		{5536E48E-8FCA-43DA-AF7A-FE4570830395}.Debug|x64.ActiveCfg = Debug|x64
+		{5536E48E-8FCA-43DA-AF7A-FE4570830395}.Debug|x64.Build.0 = Debug|x64
+		{5536E48E-8FCA-43DA-AF7A-FE4570830395}.Debug|x86.ActiveCfg = Debug|Win32
+		{5536E48E-8FCA-43DA-AF7A-FE4570830395}.Debug|x86.Build.0 = Debug|Win32
+		{5536E48E-8FCA-43DA-AF7A-FE4570830395}.Release|x64.ActiveCfg = Release|x64
+		{5536E48E-8FCA-43DA-AF7A-FE4570830395}.Release|x64.Build.0 = Release|x64
+		{5536E48E-8FCA-43DA-AF7A-FE4570830395}.Release|x86.ActiveCfg = Release|Win32
+		{5536E48E-8FCA-43DA-AF7A-FE4570830395}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
