@@ -133,7 +133,7 @@ void help()
 int main(int argc, char** argv)
 {
 	bool show_window = true;
-	unsigned int method = 0, unnormal = 10, fps = 24;
+	unsigned int method = 1, unnormal = 10, fps = 24;
 
 	if (argc > 6) {
 		cerr << "Inivalid parameters, exit..." << endl;
