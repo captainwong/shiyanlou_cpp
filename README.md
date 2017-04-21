@@ -13,7 +13,7 @@ Refactored all c-style code with c++11.
 | 5. one_hour_ar sinbad                  | [1小时入门增强现实技术](https//www.shiyanlou.com/courses/545)       |
 | 6. monitor_recorder                | [C++基于OpenCV实现实时监控和运动检测记录](https//www.shiyanlou.com/courses/671)   |
 | 7. ffmpeg_1                        | [ffmpeg 结合 SDL 编写播放器](https//www.shiyanlou.com/courses/682) part1 |
-| 8. ffmpeg_1                        | [ffmpeg 结合 SDL 编写播放器](https//www.shiyanlou.com/courses/682) part2 |
-| 9. ffmpeg_1                        | [ffmpeg 结合 SDL 编写播放器](https//www.shiyanlou.com/courses/682) part3(final) |
+| 8. ffmpeg_2                        | [ffmpeg 结合 SDL 编写播放器](https//www.shiyanlou.com/courses/682) part2 |
+| 9. ffmpeg_3                        | [ffmpeg 结合 SDL 编写播放器](https//www.shiyanlou.com/courses/682) part3(final) |
 
 To be continued......
