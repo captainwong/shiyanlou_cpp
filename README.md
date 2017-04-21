@@ -10,5 +10,5 @@ Refactored all c-style code with c++11.
 4. bank [C++实现银行排队服务模拟](https://www.shiyanlou.com/courses/557)
 5. one_hour_ar sinbad [1小时入门增强现实技术](https://www.shiyanlou.com/courses/545)
 6. monitor_recorder [C++基于OpenCV实现实时监控和运动检测记录](https://www.shiyanlou.com/courses/671)
-
+7. ffmpeg1 [ffmpeg 结合 SDL 编写播放器](https://www.shiyanlou.com/courses/682) part1
 To be continued......
